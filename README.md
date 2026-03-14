@@ -1,4 +1,4 @@
-# AAL-Dashboard-Lit-Review-with-LDA
+# NLP-based Literature Review of Aging-in-Place and Smart Home Health Technologies
 Topic modeling analysis of 250+ research papers on smart home and Ambient Assisted Living (AAL) technologies for older adults. This repository explores major research themes using LDA and BERTopic to identify gaps related to user acceptance, privacy, and dashboard design.
 
 A corpus of approximately 250 academic papers related to smart homes, AAL systems, and aging-in-place technologies was analyzed using Latent Dirichlet Allocation (LDA).
